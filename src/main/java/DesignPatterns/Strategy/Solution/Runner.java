@@ -5,8 +5,8 @@ public class Runner {
         Vehicle v1 = new SportyVehicle();
         Vehicle v2 = new OffroadVehicle();
         Vehicle v3 = new NormalVehicle();
-        v1.ds.drive();
-        v2.ds.drive();
-        v3.ds.drive();
+        v1.drive();
+        v2.drive();
+        v3.drive();
     }
 }
