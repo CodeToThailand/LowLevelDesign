@@ -1,4 +1,4 @@
-package DesignPatterns.Observer.WeatherService;
+package DesignPatterns.Behavioral.Observer.WeatherService;
 
 public class MobileDisplayObserver implements DisplayObserver{
 

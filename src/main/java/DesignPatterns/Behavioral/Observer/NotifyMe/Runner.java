@@ -1,4 +1,4 @@
-package DesignPatterns.Observer.NotifyMe;
+package DesignPatterns.Behavioral.Observer.NotifyMe;
 
 public class Runner {
     public static void main(String[] args) {

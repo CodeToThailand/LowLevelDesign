@@ -1,7 +1,4 @@
-package DesignPatterns.Observer.WeatherService;
-
-import java.util.ArrayList;
-import java.util.List;
+package DesignPatterns.Behavioral.Observer.WeatherService;
 
 public class WSObservableImpl implements WSObservableInterface {
     int temp;

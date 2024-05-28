@@ -1,4 +1,4 @@
-package DesignPatterns.Observer.NotifyMe;
+package DesignPatterns.Behavioral.Observer.NotifyMe;
 
 import java.util.ArrayList;
 import java.util.List;
