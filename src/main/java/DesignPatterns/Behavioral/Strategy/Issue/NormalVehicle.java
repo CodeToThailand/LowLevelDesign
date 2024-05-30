@@ -1,4 +1,4 @@
-package DesignPatterns.Strategy.Issue;
+package DesignPatterns.Behavioral.Strategy.Issue;
 
 public class NormalVehicle extends Vehicle{
     public static void drive() {

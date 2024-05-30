@@ -1,4 +1,4 @@
-package DesignPatterns.Strategy.Issue;
+package DesignPatterns.Behavioral.Strategy.Issue;
 
 public class OffroadVehicle extends Vehicle{
     // Code Duplication (Same method is being used by multiple child classes at the same level)

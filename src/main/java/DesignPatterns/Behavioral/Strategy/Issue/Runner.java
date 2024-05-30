@@ -1,4 +1,4 @@
-package DesignPatterns.Strategy.Solution;
+package DesignPatterns.Behavioral.Strategy.Issue;
 
 public class Runner {
     public static void main(String[] args) {
